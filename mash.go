@@ -1,6 +1,6 @@
 package mathtest
 import "fmt"
-func Add(n1, n2 int) int {
+func Add1(n1, n2 int) int {
 	fmt.Println("github.com/imsilence/testmath")
 	return n1 + n2
 }
